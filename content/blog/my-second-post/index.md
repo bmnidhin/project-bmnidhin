@@ -1,13 +1,14 @@
 ---
 title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+date: "2023-12-21T23:46:37.121Z"
+description: honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible
 ---
 
-Wow! I love blogging so much already.
+>bmnidhin
+tell me something intresting
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+> ChatGPT
+Sure, here's an interesting fact: Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. The long shelf life of honey is due to its low water content and acidic pH, which create an inhospitable environment for bacteria and microorganisms. So, if you ever come across an old jar of honey in your pantry, it's likely still safe to eat!
 
-Yeah, I didn't either.
+
+Hemm
