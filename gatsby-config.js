@@ -15,7 +15,7 @@ module.exports = {
       summary: ``,
     },
     description: `A starter, more to follow`,
-    siteUrl: `https:/bmnidhin.org/`,
+    siteUrl: `https://bmnidhin.netlify.app/`,
     social: {
       twitter: `bmnidhin`,
     },
